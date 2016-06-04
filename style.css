@@ -1,0 +1,62 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+h1{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 40px;
+	margin: 0px;
+}
+.one a h2{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+	color: black;
+	
+}
+h2{
+	color: black;
+}
+a{
+	text-decoration:none;
+}
+.two a h2{
+	background-color: #0E2DDC;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
+.three a h2{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
+.four a h2{
+	background-color: #0E2DDC;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
+.five a h2{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
+.six a h2{
+	background-color: #0E2DDC;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
+.seven a h2{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin: 0px;
+}
